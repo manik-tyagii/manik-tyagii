@@ -33,7 +33,7 @@ https://manik-tyagii.netlify.app/
 
 ## 🧰 Tech Stack
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,firebase,nodejs,git,github,vscode&perline=9" />
 </p>
 
