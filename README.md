@@ -66,9 +66,13 @@
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:YOUR-EMAIL">
+  <a href="mailto:maniktyagi1370@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
+   <a href="mailto: https://manik-tyagii.netlify.app/">
+    🌐 Portfolio: https://manik-tyagii.netlify.app/
+  </a>
+  
 </p>
 
 ---
