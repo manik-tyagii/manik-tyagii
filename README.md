@@ -2,11 +2,6 @@
 
 <h1 align="left">Hi 👋, I'm Manik Tyagi</h1>
 <h3 align="left">Full Stack Developer | Building End-to-End Web Applications</h3>
-
-<p align="left">
-  <a href="https://manik-tyagii.netlify.app/"><b>🌐 Visit My Portfolio</b></a>
-</p>
-
 ---
 
 ## 🚀 About Me
