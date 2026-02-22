@@ -68,16 +68,18 @@ https://manik-tyagii.netlify.app/
 ## 💻 Languages Usage
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,typescript,node.js"/>
+  <img src="https://skillicons.dev/icons?i=js,typescript,nodejs"/>
 </p>
 
 ---
 
 ## 🤝 Connect With Me
 
-* 🌐 Portfolio: https://manik-tyagii.netlify.app/
-* 💼 LinkedIn: *(Add your LinkedIn link here)*
-* 📧 Email: *(Optional)*
+<p align="center">
+  🌐 <a href="https://manik-tyagii.netlify.app/" target="_blank">Portfolio</a> •
+  💼 <a href="https://www.linkedin.com/in/maniktyagi13/" target="_blank">LinkedIn</a> •
+  📧 <a href="mailto:maniktyagi1307@gmail.com">Email</a>
+</p>
 
 ---
 
