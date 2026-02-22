@@ -1,6 +1,6 @@
 <!-- ================= HEADER ================= -->
 
-<h1 align="center">Hi 👋, I'm Manik Tyagi</h1>
+<h1 align="left">Hi 👋, I'm Manik Tyagi</h1>
 <h3 align="left">Full Stack Developer | Building End-to-End Web Applications</h3>
 
 <p align="left">
