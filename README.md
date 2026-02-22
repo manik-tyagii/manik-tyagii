@@ -104,6 +104,11 @@ I enjoy working on real-world problems, collaborating with teams, and turning id
 
 If you're looking for someone who can take ownership from **frontend to backend and deliver complete solutions**, let's connect.
 
+
+
+
+## 🤝 Connect With Me
+
 <p align="center">
   <a href="mailto:maniktyagi1307@gmail.com">
     <img src="https://img.shields.io/badge/Email%20Me-Get%20In%20Touch-blue?style=for-the-badge" />
@@ -113,16 +118,6 @@ If you're looking for someone who can take ownership from **frontend to backend 
   </a>
 </p>
 
-
-
-
-## 🤝 Connect With Me
-
-<p align="center">
-  🌐 <a href="https://manik-tyagii.netlify.app/" target="_blank">Portfolio</a> •
-  💼 <a href="https://www.linkedin.com/in/maniktyagi13/" target="_blank">LinkedIn</a> •
-  📧 <a href="mailto:maniktyagi1307@gmail.com">Email</a>
-</p>
 
 ---
 
