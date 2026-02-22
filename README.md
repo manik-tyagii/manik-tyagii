@@ -56,12 +56,44 @@ https://manik-tyagii.netlify.app/
 
 ---
 
-## 📊 GitHub Analytics
+## 🚀 What I’m Currently Working On
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manik-tyagii&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manik-tyagii&theme=tokyonight" height="160"/>
-</p>
+* 🔨 Building scalable full-stack applications using **React & Firebase**
+* 🌐 Improving real-world API integrations and data handling
+* ⚡ Focusing on performance, reusable components, and clean architecture
+* 📚 Exploring backend patterns and authentication workflows
+
+---
+
+## 🧠 What I Bring to a Team
+
+✔ Strong understanding of modern JavaScript ecosystem
+✔ Ability to design complete features from UI → Logic → Deployment
+✔ Experience working with live APIs and asynchronous workflows
+✔ Clean, maintainable, component-driven development approach
+✔ Passion for learning and adapting to new technologies quickly
+
+---
+
+## 🛠 Development Approach
+
+I enjoy turning complex requirements into simple, user-friendly solutions.
+My focus is always on:
+
+* Writing readable and scalable code
+* Building responsive interfaces
+* Ensuring smooth user experience
+* Delivering practical, real-world functionality
+
+---
+
+## 📌 Current Learning Journey
+
+* Advanced React Patterns
+* Backend integration & data flow
+* Application performance optimization
+* Writing production-ready code
+
 
 ---
 
