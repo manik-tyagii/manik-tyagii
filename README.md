@@ -24,9 +24,8 @@
 🔗 **Live Website:**
 https://manik-tyagii.netlify.app/
 
-<p align="center">
+<p align="left">
   <a href="https://manik-tyagii.netlify.app/">
-    <img src="https://raw.githubusercontent.com/manik-tyagii/manik-tyagii/main/portfolio.png" width="850" alt="Portfolio Preview"/>
   </a>
 </p>
 
