@@ -68,7 +68,7 @@ https://manik-tyagii.netlify.app/
 ## 💻 Languages Usage
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,typescript"/>
+  <img src="https://skillicons.dev/icons?i=js,typescript,node.js"/>
 </p>
 
 ---
