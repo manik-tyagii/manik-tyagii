@@ -7,7 +7,6 @@
 <h3 align="center">
   🚀 Full Stack Developer | ⚡ Building End-to-End Web Applications
 </h3>
----
 
 ## 🚀 About Me
 
