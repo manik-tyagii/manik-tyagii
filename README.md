@@ -1,7 +1,7 @@
 <!-- ================= HEADER ================= -->
 
 <h1 align="center">Hi 👋, I'm Manik Tyagi</h1>
-<h3 align="center">Frontend Developer | React Developer | Building Modern Web Experiences</h3>
+<h3 align="center">Frontend Developer | React Developer | Building Scalable & Modern UI</h3>
 
 <p align="center">
   <a href="https://manik-tyagii.netlify.app/"><b>🌐 Visit My Portfolio</b></a>
@@ -11,11 +11,11 @@
 
 ## 🚀 About Me
 
-* 💻 Frontend Developer focused on **React & Modern JavaScript**
-* ⚡ Skilled in building **responsive, real-world web applications**
-* 🔗 Experienced with **API Integration & Dynamic Data Rendering**
-* 🎯 Passionate about writing clean, scalable UI code
-* 🌱 Currently improving **advanced React & performance optimization**
+* 💻 Frontend Developer specializing in **React.js & JavaScript**
+* ⚡ Experienced in building **responsive, real-world applications**
+* 🔗 Strong in **API Integration & Dynamic Data Handling**
+* 🎯 Focused on writing clean, maintainable, scalable UI code
+* 🌱 Currently learning **advanced React patterns & optimization**
 
 ---
 
@@ -24,11 +24,11 @@
 🔗 **Live Website:**
 https://manik-tyagii.netlify.app/
 
-<!-- Upload a screenshot named portfolio.png in this repo (or assets folder) and it will appear below -->
+<!-- Make sure you uploaded portfolio.png in this repo -->
 
 <p align="center">
   <a href="https://manik-tyagii.netlify.app/">
-    <img src="https://raw.githubusercontent.com/manik-tyagii/manik-tyagii/main/portfolio.png" alt="Portfolio Preview" width="800"/>
+    <img src="https://raw.githubusercontent.com/manik-tyagii/manik-tyagii/main/portfolio.png" width="850" alt="Portfolio Preview"/>
   </a>
 </p>
 
@@ -37,17 +37,8 @@ https://manik-tyagii.netlify.app/
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,firebase,git,github,vscode&perline=5" />
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,firebase,git,github,vscode&perline=9" />
 </p>
-
-**Core Skills**
-
-* React.js (Hooks, Component Architecture)
-* JavaScript (ES6+)
-* REST API Integration
-* Responsive Web Design
-* Firebase
-* Git & GitHub Workflow
 
 ---
 
@@ -61,13 +52,13 @@ https://manik-tyagii.netlify.app/
 
 ### 💱 Currency Converter
 
-* Fetches live exchange rates
+* Live exchange rate conversion
 * API-driven functionality
-* Clean, responsive UI implementation
+* Clean and responsive UI
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=manik-tyagii&show_icons=true&theme=tokyonight" height="160"/>
@@ -76,7 +67,7 @@ https://manik-tyagii.netlify.app/
 
 ---
 
-## 💻 Languages Used
+## 💻 Languages Usage
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manik-tyagii&layout=compact&theme=tokyonight"/>
@@ -88,8 +79,8 @@ https://manik-tyagii.netlify.app/
 
 * 🌐 Portfolio: https://manik-tyagii.netlify.app/
 * 💼 LinkedIn: *(Add your LinkedIn link here)*
-* 📧 Email: *(Add your email if you want recruiters to contact you)*
+* 📧 Email: *(Add email if you want contact)*
 
 ---
 
-⭐ *Focused on building fast, clean, and user-friendly web applications.*
+⭐ *I enjoy transforming ideas into real, user-friendly web products.*
