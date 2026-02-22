@@ -1,7 +1,7 @@
 <!-- ================= HEADER ================= -->
 
 <h1 align="center">Hi 👋, I'm Manik Tyagi</h1>
-<h3 align="center">Frontend Developer | React Developer | Building Scalable & Modern UI</h3>
+<h3 align="center">Full Stack Developer | Building End-to-End Web Applications</h3>
 
 <p align="center">
   <a href="https://manik-tyagii.netlify.app/"><b>🌐 Visit My Portfolio</b></a>
@@ -11,11 +11,11 @@
 
 ## 🚀 About Me
 
-* 💻 Frontend Developer specializing in **React.js & JavaScript**
-* ⚡ Experienced in building **responsive, real-world applications**
-* 🔗 Strong in **API Integration & Dynamic Data Handling**
-* 🎯 Focused on writing clean, maintainable, scalable UI code
-* 🌱 Currently learning **advanced React patterns & optimization**
+* 💻 Full Stack Developer skilled in building **complete web solutions (Frontend → Backend → Deployment)**
+* ⚡ Experienced with **React, JavaScript, APIs, and Firebase**
+* 🔗 Strong understanding of **client-server architecture & real-time data**
+* 🎯 Focused on scalable, maintainable, production-ready applications
+* 🌱 Continuously learning new backend technologies and system design
 
 ---
 
@@ -23,8 +23,6 @@
 
 🔗 **Live Website:**
 https://manik-tyagii.netlify.app/
-
-<!-- Make sure you uploaded portfolio.png in this repo -->
 
 <p align="center">
   <a href="https://manik-tyagii.netlify.app/">
@@ -37,7 +35,7 @@ https://manik-tyagii.netlify.app/
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,firebase,git,github,vscode&perline=9" />
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,firebase,nodejs,git,github,vscode&perline=9" />
 </p>
 
 ---
@@ -46,15 +44,15 @@ https://manik-tyagii.netlify.app/
 
 ### 🍔 Savora Food App
 
-* Real-time restaurant data using external APIs
-* Dynamic search, filtering & rendering
-* Built with React functional components
+* Full-stack architecture using API-driven data
+* Dynamic restaurant search and filtering
+* Built with React + real-time integration
 
 ### 💱 Currency Converter
 
-* Live exchange rate conversion
-* API-driven functionality
-* Clean and responsive UI
+* Fetches live exchange rates via API
+* Handles asynchronous data and UI updates
+* Responsive and production-ready design
 
 ---
 
@@ -79,8 +77,8 @@ https://manik-tyagii.netlify.app/
 
 * 🌐 Portfolio: https://manik-tyagii.netlify.app/
 * 💼 LinkedIn: *(Add your LinkedIn link here)*
-* 📧 Email: *(Add email if you want contact)*
+* 📧 Email: *(Optional)*
 
 ---
 
-⭐ *I enjoy transforming ideas into real, user-friendly web products.*
+⭐ *Passionate about building complete digital products — from UI to backend logic.*
