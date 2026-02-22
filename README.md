@@ -41,13 +41,15 @@ https://manik-tyagii.netlify.app/
 
 ## 📌 Featured Projects
 
-### 🍔 Savora Food App
+### 🍔 Savora Food App <a href="https://savora-foods.netlify.app">Live Demo
+  </a>
 
 * Full-stack architecture using API-driven data
 * Dynamic restaurant search and filtering
 * Built with React + real-time integration
 
-### 💱 Currency Converter
+### 💱 Currency Converter <a href="https://realtime-currency-rates.netlify.app">Live Demo
+  </a>
 
 * Fetches live exchange rates via API
 * Handles asynchronous data and UI updates
