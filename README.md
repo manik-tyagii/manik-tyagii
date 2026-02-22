@@ -68,7 +68,7 @@ https://manik-tyagii.netlify.app/
 ## 💻 Languages Usage
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manik-tyagii&layout=compact&theme=tokyonight"/>
+  <img src="https://skillicons.dev/icons?i=js,typescript"/>
 </p>
 
 ---
