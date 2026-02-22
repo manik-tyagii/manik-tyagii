@@ -96,6 +96,23 @@ My focus is always on:
 
 
 ---
+## 💼 Hire Me
+
+I’m currently open to opportunities where I can contribute as a **Full Stack Developer** and build impactful web applications.
+
+I enjoy working on real-world problems, collaborating with teams, and turning ideas into reliable, user-friendly products.
+
+If you're looking for someone who can take ownership from **frontend to backend and deliver complete solutions**, let's connect.
+
+<p align="center">
+  <a href="mailto:maniktyagi1307@gmail.com">
+    <img src="https://img.shields.io/badge/Email%20Me-Get%20In%20Touch-blue?style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/maniktyagi13/">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge" />
+  </a>
+</p>
+
 
 
 
