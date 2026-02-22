@@ -97,13 +97,7 @@ My focus is always on:
 
 ---
 
-## 💻 Languages Usage
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,typescript,nodejs"/>
-</p>
-
----
 
 ## 🤝 Connect With Me
 
