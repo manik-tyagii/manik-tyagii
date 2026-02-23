@@ -1,8 +1,7 @@
 <!-- ================= HEADER ================= -->
 
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">Hello, I'm 𝑀𝒶𝓃𝒾𝓀 𝒯𝓎𝒶𝑔𝒾
-</h1>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">Hello, I'm <ManikTyagi />
 
 <h3 align="center">
   🚀 Full Stack Developer | ⚡ Building End-to-End Web Applications
