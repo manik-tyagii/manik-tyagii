@@ -1,7 +1,7 @@
 <!-- ================= HEADER ================= -->
 
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">Hello, I'm Manik Tyagi
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">Hello, I'm a :-
 </h1>
 
 <h3 align="center">
