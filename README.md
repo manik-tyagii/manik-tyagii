@@ -10,7 +10,7 @@
 ## 🚀 About Me
 
 * 💻 Full Stack Developer skilled in building **complete web solutions (Frontend → Backend → Deployment)**
-* ⚡ Experienced with **React, JavaScript, APIs, and Firebase**
+* ⚡ Experienced with **React, JavaScript, APIs, Node.js, Mongodb, and Firebase**
 * 🔗 Strong understanding of **client-server architecture & real-time data**
 * 🎯 Focused on scalable, maintainable, production-ready applications
 * 🌱 Continuously learning new backend technologies and system design
